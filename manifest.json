@@ -1,21 +1,20 @@
 {
-  "name": "LUCKY DRAW - Pick Your Winner!",
+  "name": "LuckyDraw",
   "short_name": "LuckyDraw",
   "description": "One winner. Names stay on this device.",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/lucky-draw-app-source/",
   "display": "standalone",
-  "background_color": "#100816",
-  "theme_color": "#6d28d9",
+  "background_color": "#0f0a1e",
+  "theme_color": "#0f0a1e",
   "icons": [
     {
-      "src": "./icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
